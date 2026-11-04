@@ -1,0 +1,7 @@
+{
+  "name": "PROBELEMA — Government Civic Workflow Portal",
+  "description": "Government municipal workflow and incident management desktop portal for civic reports verification, assignment, tracking, and archival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
